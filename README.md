@@ -10,7 +10,7 @@
 - File server
 
 ## 2. What's the git command that downloads your repository from GitHub to your computer?
-- clone
+- **clone**
 - fork
 - push
 - commit
