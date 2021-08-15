@@ -29,6 +29,6 @@
 
 ## 5. How can you format code in VSCode?
 - Ctrl + Alt/Option + F
-- Shift + Alt/Option + F
-- Ctrl + Shift + I
+- **Shift + Alt/Option + F**
+- **Ctrl + Shift + I**
 - Shift + Alt/Option + I
