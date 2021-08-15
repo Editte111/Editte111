@@ -23,7 +23,7 @@
 
 ## 4. Which vendor acquired GitHub for $7.5 billion in June 2018?
 - Oracle
-- Microsoft
+- **Microsoft**
 - IBM
 - Google
 
