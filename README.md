@@ -17,7 +17,7 @@
 
 ## 3. Where are files stored before they are committed to the local repository?
 - git cache
-- git documents
+- **git documents**
 - Saved files
 - Staging area
 
