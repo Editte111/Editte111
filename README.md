@@ -1,6 +1,6 @@
 # Your personal details
 ### First name: Edit
-### Last name:
+### Last name: Seres
 
 
 ## 1. Which of the descriptions below accurately describes Git?
